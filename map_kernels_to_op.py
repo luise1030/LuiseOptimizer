@@ -15,8 +15,6 @@ def add_parser_arguments(parser):
 #                        help='model configs: ' +
 #                        ' | '.join(model_configs) + '(default: classic)')
 #
-#    parser.add_argument('-j', '--workers', default=4, type=int, metavar='N',
-#                        help='number of data loading workers (default: 1)')
 #    parser.add_argument('--epochs', default=50, type=int, metavar='N',
 #                        help='number of total epochs to run')
 #    parser.add_argument('--start-epoch', default=0, type=int, metavar='N',
@@ -33,10 +31,14 @@ def add_parser_arguments(parser):
 #                        metavar='MAXLR', help='initial learning rate')
 #    parser.add_argument('--lr-schedule', default='polynomial', type=str, metavar='SCHEDULE', choices=['step','linear','cosine', 'polynomial', 'exponential'])
     parser.add_argument('-i', '--input-file', type=str, help='')
+    parser.add_argument('--pid', default=0, type=int, metavar='N',
+                        help='pid of OP events')
 
 def print_events(evt, pref=''):
     if 'child' not in evt:
         if evt['name'] == 'hipExtModuleLaunchKernel' or evt['name'] == 'hipLaunchKernel':
+            if pref == '':
+                return
             print(pref + ',' + '"%s"' % evt['kernel_name'])
         elif pref == '':
             print(evt['op_id'] + ',' + evt['name'])
@@ -75,7 +77,7 @@ if __name__ == '__main__':
     hipLaunch_list = []
     all_evt = []
     for evt in data['traceEvents']:
-        if 'name' in evt and 'op_id' in evt['name']:
+        if 'name' in evt and 'pid' in evt and int(evt['pid']) == args.pid and 'BeginNs' in evt['args']:
             for k in ['BeginNs', 'EndNs']:
                 evt['args'][k] = int(evt['args'][k])
             evt['name'] = re.sub(r', seq = [0-9]*', r'', evt['name'])
@@ -84,6 +86,8 @@ if __name__ == '__main__':
             if m != None:
                 evt['name'] = m.group(1)
                 evt['op_id'] = m.group(2)
+            else:
+                evt['op_id'] = ''
             evt['name'] = re.sub(r',', r'.', evt['name'])
 
             op_list.append(evt)
