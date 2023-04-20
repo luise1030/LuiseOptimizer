@@ -1,0 +1,2 @@
+MIOpenDriver rnnfp16 -n 128 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 1 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 82 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 1 -c 1 -F 1 -w 1 --iter 100 -V 0

@@ -1,0 +1,97 @@
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 1024 -n 2048 -k 256 --alpha 1 --lda 1024 --ldb 256 --beta 0 --ldc 1024 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 1024 -n 8720 -k 256 --alpha 1 --lda 1024 --ldb 256 --beta 1 --ldc 1024 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 1152 -n 2180 -k 384 --alpha 1 --lda 1152 --ldb 384 --beta 0 --ldc 1152 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 1158 -n 2180 -k 384 --alpha 1 --lda 1158 --ldb 384 --beta 0 --ldc 1158 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 128 -k 64 --alpha 1 --lda 128 --ldb 64 --beta 1 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 16 -k 64 --alpha 1 --lda 128 --ldb 64 --beta 1 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 17440 -k 128 --alpha 1 --lda 128 --ldb 128 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 17440 -k 384 --alpha 1 --lda 128 --ldb 384 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 2180 -k 128 --alpha 1 --lda 128 --ldb 128 --beta 1 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 2180 -k 384 --alpha 1 --lda 128 --ldb 384 --beta 1 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 279040 -k 1024 --alpha 1 --lda 128 --ldb 1024 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 4752400 -k 128 --alpha 1 --lda 128 --ldb 128 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 4752400 -k 15 --alpha 1 --lda 128 --ldb 15 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 4752400 -k 65 --alpha 1 --lda 128 --ldb 65 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 512 -k 64 --alpha 1 --lda 128 --ldb 64 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 64 -k 64 --alpha 1 --lda 128 --ldb 64 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 8720 -k 128 --alpha 1 --lda 128 --ldb 128 --beta 1 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 8720 -k 512 --alpha 1 --lda 128 --ldb 512 --beta 1 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 128 -n 8720 -k 64 --alpha 1 --lda 128 --ldb 64 --beta 1 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 14 -n 17440 -k 128 --alpha 1 --lda 14 --ldb 128 --beta 0 --ldc 14 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 23 -n 1107440 -k 256 --alpha 1 --lda 23 --ldb 256 --beta 1 --ldc 23 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 23 -n 1116160 -k 256 --alpha 1 --lda 23 --ldb 256 --beta 1 --ldc 23 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 256 -n 1107440 -k 49 --alpha 1 --lda 256 --ldb 49 --beta 1 --ldc 256 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 256 -n 1116160 -k 49 --alpha 1 --lda 256 --ldb 49 --beta 1 --ldc 256 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 256 -n 2048 -k 256 --alpha 1 --lda 256 --ldb 256 --beta 1 --ldc 256 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 256 -n 8720 -k 1024 --alpha 1 --lda 256 --ldb 1024 --beta 1 --ldc 256 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 256 -n 8720 -k 256 --alpha 0.176777 --lda 256 --ldb 256 --beta 0 --ldc 256 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 256 -n 8720 -k 256 --alpha 1 --lda 256 --ldb 256 --beta 0 --ldc 256 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 256 -n 8720 -k 256 --alpha 1 --lda 256 --ldb 256 --beta 1 --ldc 256 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 256 -n 8720 -k 57 --alpha 1 --lda 256 --ldb 57 --beta 1 --ldc 256 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 256 -n 8720 -k 64 --alpha 1 --lda 256 --ldb 64 --beta 0 --ldc 256 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 256 -n 8720 -k 64 --alpha 1 --lda 256 --ldb 64 --beta 1 --ldc 256 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 32 -n 1116160 -k 256 --alpha 1 --lda 32 --ldb 256 --beta 1 --ldc 32 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 32 -n 11161600 -k 64 --alpha 1 --lda 32 --ldb 64 --beta 1 --ldc 32 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 32 -n 2232320 -k 64 --alpha 1 --lda 32 --ldb 64 --beta 1 --ldc 32 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 37 -n 2180 -k 384 --alpha 1 --lda 37 --ldb 384 --beta 1 --ldc 37 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 384 -n 2180 -k 2112 --alpha 1 --lda 384 --ldb 2112 --beta 0 --ldc 384 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 384 -n 2180 -k 256 --alpha 1 --lda 384 --ldb 256 --beta 1 --ldc 384 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 384 -n 2180 -k 384 --alpha 1 --lda 384 --ldb 384 --beta 0 --ldc 384 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 384 -n 2180 -k 384 --alpha 1 --lda 384 --ldb 384 --beta 1 --ldc 384 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 50 -n 2180 -k 128 --alpha 1 --lda 50 --ldb 128 --beta 1 --ldc 50 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 512 -n 8720 -k 128 --alpha 1 --lda 512 --ldb 128 --beta 0 --ldc 512 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 512 -n 8720 -k 128 --alpha 1 --lda 512 --ldb 128 --beta 1 --ldc 512 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 6 -n 2180 -k 384 --alpha 1 --lda 6 --ldb 384 --beta 0 --ldc 6 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 11161600 -k 25 --alpha 1 --lda 64 --ldb 25 --beta 1 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 128 -k 128 --alpha 0.25 --lda 64 --ldb 128 --beta 0 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 16 -k 128 --alpha 0.25 --lda 64 --ldb 128 --beta 0 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 20480 -k 64 --alpha 1 --lda 64 --ldb 64 --beta 1 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 2232320 -k 25 --alpha 1 --lda 64 --ldb 25 --beta 1 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 4 -k 64 --alpha 0.353553 --lda 64 --ldb 64 --beta 0 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 4096 -k 64 --alpha 1 --lda 64 --ldb 64 --beta 1 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 4752400 -k 128 --alpha 1 --lda 64 --ldb 128 --beta 0 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 4752400 -k 64 --alpha 1 --lda 64 --ldb 64 --beta 0 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 4752400 -k 88 --alpha 1 --lda 64 --ldb 88 --beta 0 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 8720 -k 128 --alpha 1 --lda 64 --ldb 128 --beta 1 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 8720 -k 256 --alpha 1 --lda 64 --ldb 256 --beta 1 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 64 -n 8720 -k 64 --alpha 1 --lda 64 --ldb 64 --beta 1 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 80 -n 20480 -k 64 --alpha 1 --lda 80 --ldb 64 --beta 0 --ldc 80 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB N -m 80 -n 4096 -k 64 --alpha 1 --lda 80 --ldb 64 --beta 0 --ldc 80 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 128 -n 4752400 -k 128 --alpha 1 --lda 128 --ldb 4752400 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 128 -n 69760 -k 1024 --alpha 1 --lda 128 --ldb 69760 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 128 -n 69760 -k 512 --alpha 1 --lda 128 --ldb 69760 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 128 -n 69760 -k 5120 --alpha 1 --lda 128 --ldb 69760 --beta 0 --ldc 128 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 2180 -n 2180 -k 1024 --alpha 1 --lda 2180 --ldb 2180 --beta 1 --ldc 2180 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 2180 -n 2180 -k 512 --alpha 1 --lda 2180 --ldb 2180 --beta 1 --ldc 2180 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 2180 -n 2180 -k 5120 --alpha 1 --lda 2180 --ldb 2180 --beta 1 --ldc 2180 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 4096 -n 69760 -k 1024 --alpha 1 --lda 4096 --ldb 69760 --beta 0 --ldc 4096 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 4096 -n 69760 -k 512 --alpha 1 --lda 4096 --ldb 69760 --beta 0 --ldc 4096 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 4096 -n 69760 -k 5120 --alpha 1 --lda 4096 --ldb 69760 --beta 0 --ldc 4096 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 4752400 -n 4 -k 128 --alpha 1 --lda 4752400 --ldb 4 --beta 0 --ldc 4752400 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 4752400 -n 4 -k 64 --alpha 1 --lda 4752400 --ldb 4 --beta 0 --ldc 4752400 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 4752400 -n 8 -k 128 --alpha 1 --lda 4752400 --ldb 8 --beta 0 --ldc 4752400 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA N --transposeB T -m 64 -n 4752400 -k 64 --alpha 1 --lda 64 --ldb 4752400 --beta 0 --ldc 64 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA T --transposeB N -m 2180 -n 2180 -k 512 --alpha 1 --lda 512 --ldb 512 --beta 1 --ldc 2180 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA T --transposeB T -m 2180 -n 512 -k 22 --alpha 1 --lda 22 --ldb 512 --beta 0 --ldc 2180 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA T --transposeB T -m 4752400 -n 12 -k 128 --alpha 1 --lda 128 --ldb 12 --beta 1 --ldc 4752400 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA T --transposeB T -m 4752400 -n 4 -k 64 --alpha 1 --lda 64 --ldb 4 --beta 0 --ldc 4752400 --iters 100
+hipblas-bench -f gemm -r f32_r --transposeA T --transposeB T -m 8720 -n 128 -k 1024 --alpha 1 --lda 1024 --ldb 128 --beta 1 --ldc 8720 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 128 -n 12 -k 2180 --alpha 1 --lda 128 --stride_a 279040 --ldb 4752400 --stride_b 2180 --beta 0 --ldc 128 --stride_c 1536 --batch_count 2180 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 16 -n 2180 -k 2180 --alpha 1 --lda 192 --stride_a 16 --ldb 2180 --stride_b 4752400 --beta 0 --ldc 192 --stride_c 16 --batch_count 12 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 2180 -n 2180 -k 16 --alpha 1 --lda 2180 --stride_a 34880 --ldb 16 --stride_b 34880 --beta 1 --ldc 2180 --stride_c 4752400 --batch_count 16 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 2180 -n 2180 -k 2180 --alpha 1 --lda 2180 --stride_a 4752400 --ldb 2180 --stride_b 4752400 --beta 0 --ldc 2180 --stride_c 4752400 --batch_count 128 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 2180 -n 2180 -k 2180 --alpha 1 --lda 2180 --stride_a 4752400 --ldb 2180 --stride_b 4752400 --beta 0 --ldc 2180 --stride_c 4752400 --batch_count 64 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 2180 -n 2180 -k 32 --alpha 1 --lda 2180 --stride_a 69760 --ldb 32 --stride_b 69760 --beta 1 --ldc 2180 --stride_c 4752400 --batch_count 16 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 2180 -n 2180 -k 32 --alpha 1 --lda 2180 --stride_a 69760 --ldb 32 --stride_b 69760 --beta 1 --ldc 2180 --stride_c 4752400 --batch_count 32 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 2180 -n 2180 -k 8 --alpha 1 --lda 2180 --stride_a 17440 --ldb 8 --stride_b 17440 --beta 1 --ldc 2180 --stride_c 4752400 --batch_count 32 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 512 -n 512 -k 32 --alpha 1 --lda 512 --stride_a 16384 --ldb 32 --stride_b 16384 --beta 1 --ldc 512 --stride_c 262144 --batch_count 32 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 8 -n 8 -k 1024 --alpha 1 --lda 8 --stride_a 8192 --ldb 1024 --stride_b 8192 --beta 0 --ldc 8 --stride_c 64 --batch_count 4 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA N --transposeB N -m 8 -n 8 -k 5120 --alpha 1 --lda 8 --stride_a 40960 --ldb 5120 --stride_b 40960 --beta 0 --ldc 8 --stride_c 64 --batch_count 4 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA T --transposeB N -m 1024 -n 8 -k 8 --alpha 1 --lda 8 --stride_a 8192 --ldb 8 --stride_b 64 --beta 1 --ldc 1024 --stride_c 8192 --batch_count 4 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA T --transposeB N -m 2180 -n 16 -k 2180 --alpha 1 --lda 2180 --stride_a 4752400 --ldb 2180 --stride_b 34880 --beta 0 --ldc 2180 --stride_c 34880 --batch_count 16 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA T --transposeB N -m 2180 -n 2180 -k 16 --alpha 1 --lda 192 --stride_a 16 --ldb 192 --stride_b 16 --beta 1 --ldc 2180 --stride_c 4752400 --batch_count 12 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA T --transposeB N -m 2180 -n 32 -k 2180 --alpha 1 --lda 2180 --stride_a 4752400 --ldb 2180 --stride_b 69760 --beta 0 --ldc 2180 --stride_c 69760 --batch_count 16 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA T --transposeB N -m 2180 -n 32 -k 2180 --alpha 1 --lda 2180 --stride_a 4752400 --ldb 2180 --stride_b 69760 --beta 0 --ldc 2180 --stride_c 69760 --batch_count 32 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA T --transposeB N -m 2180 -n 8 -k 2180 --alpha 1 --lda 2180 --stride_a 4752400 --ldb 2180 --stride_b 17440 --beta 0 --ldc 2180 --stride_c 17440 --batch_count 32 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA T --transposeB N -m 512 -n 32 -k 512 --alpha 1 --lda 512 --stride_a 262144 --ldb 512 --stride_b 16384 --beta 0 --ldc 512 --stride_c 16384 --batch_count 32 --iters 100
+hipblas-bench -f gemm_strided_batched -r f32_r --transposeA T --transposeB N -m 5120 -n 8 -k 8 --alpha 1 --lda 8 --stride_a 40960 --ldb 8 --stride_b 64 --beta 1 --ldc 5120 --stride_c 40960 --batch_count 4 --iters 100

@@ -1,0 +1,1875 @@
+MIOpenDriver rnnfp16 -n 128 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 1 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 82 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 1 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 81 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 1 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 97 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 97 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 97 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 98 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 98 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 98 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 100 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 100 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 100 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 101 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 101 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 101 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 96 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 96 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 96 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 99 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 99 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 99 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 95 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 95 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 95 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 103 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 103 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 103 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 102 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 102 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 102 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 94 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 94 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 94 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 104 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 104 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 104 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 105 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 105 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 105 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 22 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 22 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 22 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 106 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 106 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 106 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 93 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 93 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 93 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 21 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 21 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 21 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 230 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 230 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 230 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 37 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 37 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 37 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 39 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 39 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 39 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 92 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 92 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 92 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 91 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 91 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 91 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 231 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 231 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 231 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 23 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 23 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 23 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 432 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 432 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 432 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 412 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 412 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 412 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 216 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 216 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 216 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 206 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 206 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 206 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 107 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 107 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 107 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 430 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 430 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 430 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 428 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 428 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 428 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 414 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 414 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 414 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 388 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 388 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 388 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 215 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 215 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 215 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 214 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 214 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 214 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 207 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 207 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 207 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 194 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 194 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 194 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 60 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 60 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 60 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 232 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 232 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 232 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 229 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 229 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 229 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 459 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 459 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 459 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 434 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 434 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 434 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 217 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 217 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 217 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 43 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 43 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 43 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 408 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 408 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 408 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 204 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 204 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 204 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 42 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 42 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 42 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 88 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 88 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 88 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 59 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 59 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 59 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 40 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 40 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 40 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 90 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 90 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 90 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 410 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 410 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 410 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 205 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 205 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 205 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 74 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 74 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 74 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 58 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 58 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 58 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 144 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 144 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 144 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 72 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 72 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 72 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 45 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 45 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 45 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 44 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 44 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 44 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 38 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 38 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 38 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 20 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 20 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 20 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 109 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 109 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 109 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 390 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 390 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 390 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 386 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 386 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 386 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 195 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 195 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 195 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 193 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 193 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 193 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 78 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 78 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 78 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 86 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 86 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 86 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 243 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 243 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 243 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 176 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 176 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 176 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 174 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 174 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 174 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 461 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 461 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 461 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 384 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 384 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 384 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 212 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 212 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 212 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 140 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 140 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 140 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 70 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 70 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 70 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 192 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 192 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 192 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 106 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 106 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 106 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 77 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 77 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 77 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 41 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 41 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 41 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 120 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 120 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 120 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 244 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 244 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 244 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 113 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 113 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 113 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 108 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 108 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 108 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 416 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 416 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 416 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 346 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 346 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 346 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 342 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 342 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 342 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 288 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 288 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 288 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 216 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 216 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 216 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 136 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 136 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 136 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 134 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 134 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 134 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 68 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 68 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 68 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 67 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 67 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 67 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 208 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 208 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 208 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 173 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 173 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 173 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 171 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 171 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 171 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 144 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 144 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 144 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 108 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 108 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 108 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 79 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 79 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 79 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 73 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 73 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 73 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 40 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 40 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 40 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 116 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 116 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 116 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 245 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 245 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 245 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 178 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 178 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 178 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 129 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 129 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 129 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 125 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 125 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 125 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 126 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 126 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 126 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 464 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 464 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 464 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 462 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 462 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 462 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 458 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 458 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 458 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 206 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 206 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 206 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 138 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 138 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 138 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 69 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 69 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 69 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 103 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 103 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 103 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 352 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 352 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 352 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 117 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 117 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 117 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 87 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 87 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 87 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 83 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 83 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 83 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 57 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 57 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 57 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 56 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 56 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 56 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 247 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 247 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 247 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 111 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 111 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 111 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 460 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 460 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 460 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 350 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 350 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 350 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 348 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 348 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 348 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 218 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 218 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 218 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 208 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 208 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 208 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 146 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 146 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 146 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 73 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 73 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 73 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 228 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 228 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 228 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 175 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 175 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 175 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 174 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 174 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 174 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 109 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 109 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 109 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 104 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 104 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 104 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 76 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 76 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 76 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 46 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 46 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 46 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 176 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 176 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 176 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 90 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 90 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 90 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 89 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 89 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 89 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 61 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 61 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 61 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 41 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 41 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 41 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 36 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 36 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 36 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 242 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 242 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 242 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 175 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 175 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 175 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 173 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 173 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 173 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 128 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 128 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 128 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 9 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 9 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 9 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 112 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 112 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 112 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 8 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 8 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 8 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 641 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 641 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 641 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 463 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 463 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 463 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 457 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 457 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 457 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 436 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 436 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 436 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 426 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 426 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 426 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 392 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 392 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 392 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 380 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 380 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 380 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 344 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 344 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 344 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 276 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 276 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 276 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 4 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 4 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 4 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 321 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 321 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 321 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 218 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 218 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 218 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 213 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 213 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 213 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 196 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 196 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 196 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 190 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 190 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 190 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 172 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 172 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 172 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 138 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 138 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 138 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 489 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 489 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 489 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 488 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 488 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 488 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 485 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 485 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 485 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 483 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 483 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 483 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 356 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 356 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 356 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 347 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 347 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 347 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 249 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 249 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 249 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 175 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 175 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 175 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 171 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 171 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 171 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 119 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 119 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 119 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 114 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 114 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 114 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 92 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 92 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 92 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 62 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 62 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 62 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 248 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 248 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 248 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 24 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 24 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 24 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 179 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 179 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 179 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 132 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 132 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 132 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 127 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 127 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 127 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 124 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 124 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 124 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 456 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 456 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 456 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 406 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 406 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 406 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 352 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 352 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 352 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 298 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 298 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 298 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 292 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 292 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 292 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 290 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 290 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 290 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 284 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 284 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 284 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 278 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 278 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 278 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 210 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 210 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 210 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 204 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 204 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 204 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 203 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 203 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 203 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 176 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 176 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 176 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 149 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 149 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 149 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 146 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 146 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 146 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 145 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 145 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 145 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 142 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 142 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 142 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 139 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 139 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 139 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 105 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 105 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 105 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 102 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 102 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 102 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 72 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 72 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 72 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 494 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 494 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 494 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 357 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 357 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 357 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 179 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 179 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 179 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 121 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 121 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 121 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 118 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 118 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 118 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 85 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 85 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 85 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 55 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 55 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 55 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 241 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 241 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 241 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 240 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 240 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 240 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 181 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 181 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 181 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 130 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 130 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 130 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 89 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 89 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 89 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 110 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 110 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 110 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 338 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 338 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 338 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 336 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 336 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 336 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 294 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 294 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 294 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 272 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 272 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 272 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 222 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 222 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 222 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 214 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 214 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 214 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 142 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 142 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 142 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 71 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 71 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 71 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 169 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 169 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 169 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 168 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 168 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 168 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 147 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 147 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 147 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 136 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 136 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 136 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 111 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 111 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 111 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 107 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 107 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 107 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 81 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 81 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 81 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 80 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 80 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 80 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 75 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 75 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 75 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 486 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 486 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 486 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 480 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 480 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 480 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 47 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 47 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 47 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 362 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 362 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 362 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 349 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 349 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 349 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 348 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 348 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 348 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 346 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 346 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 346 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 264 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 264 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 264 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 258 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 258 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 258 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 257 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 257 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 257 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 255 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 255 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 255 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 252 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 252 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 252 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 183 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 183 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 183 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 178 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 178 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 178 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 174 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 174 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 174 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 172 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 172 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 172 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 165 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 165 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 165 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 112 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 112 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 112 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 93 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 93 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 93 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 35 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 35 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 35 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 249 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 249 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 249 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 246 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 246 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 246 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 177 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 177 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 177 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 171 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 171 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 171 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 136 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 136 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 136 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 134 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 134 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 134 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 126 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 126 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 126 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 122 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 122 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 122 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 114 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 114 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 114 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 438 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 438 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 438 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 394 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 394 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 394 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 382 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 382 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 382 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 376 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 376 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 376 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 360 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 360 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 360 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 340 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 340 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 340 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 334 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 334 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 334 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 280 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 280 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 280 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 270 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 270 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 270 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 202 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 202 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 202 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 233 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 233 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 233 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 219 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 219 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 219 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 197 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 197 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 197 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 191 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 191 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 191 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 188 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 188 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 188 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 180 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 180 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 180 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 170 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 170 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 170 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 167 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 167 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 167 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 140 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 140 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 140 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 135 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 135 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 135 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 101 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 101 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 101 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 70 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 70 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 70 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 500 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 500 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 500 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 498 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 498 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 498 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 495 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 495 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 495 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 487 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 487 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 487 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 253 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 253 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 253 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 248 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 248 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 248 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 244 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 244 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 244 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 173 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 173 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 173 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 170 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 170 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 170 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 166 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 166 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 166 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 124 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 124 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 124 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 115 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 115 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 115 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 111 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 111 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 111 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 64 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 64 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 64 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 54 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 54 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 54 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 250 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 250 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 250 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 239 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 239 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 239 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 180 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 180 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 180 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 131 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 131 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 131 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 121 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 121 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 121 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 465 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 465 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 465 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 420 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 420 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 420 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 418 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 418 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 418 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 396 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 396 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 396 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 378 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 378 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 378 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 358 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 358 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 358 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 356 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 356 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 356 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 286 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 286 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 286 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 152 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 152 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 152 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 150 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 150 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 150 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 132 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 132 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 132 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 76 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 76 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 76 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 75 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 75 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 75 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 66 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 66 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 66 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 210 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 210 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 210 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 209 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 209 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 209 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 198 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 198 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 198 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 189 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 189 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 189 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 179 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 179 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 179 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 178 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 178 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 178 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 143 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 143 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 143 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 82 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 82 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 82 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 496 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 496 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 496 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 493 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 493 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 493 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 492 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 492 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 492 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 490 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 490 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 490 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 482 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 482 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 482 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 481 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 481 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 481 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 39 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 39 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 39 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 355 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 355 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 355 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 354 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 354 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 354 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 351 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 351 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 351 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 350 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 350 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 350 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 345 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 345 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 345 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 342 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 342 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 342 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 271 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 271 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 271 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 267 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 267 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 267 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 261 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 261 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 261 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 260 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 260 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 260 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 259 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 259 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 259 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 256 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 256 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 256 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 254 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 254 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 254 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 250 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 250 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 250 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 247 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 247 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 247 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 242 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 242 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 242 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 186 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 186 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 186 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 177 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 177 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 177 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 158 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 158 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 158 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 127 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 127 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 127 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 126 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 126 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 126 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 123 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 123 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 123 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 110 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 110 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 110 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 109 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 109 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 109 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 108 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 108 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 108 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 94 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 94 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 94 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 91 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 91 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 91 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 82 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 82 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 82 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 79 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 79 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 79 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 63 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 63 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 63 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 185 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 185 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 185 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 182 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 182 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 182 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 172 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 172 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 172 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 123 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 123 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 123 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 87 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 87 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 87 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 404 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 404 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 404 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 354 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 354 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 354 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 296 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 296 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 296 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 274 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 274 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 274 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 268 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 268 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 268 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 220 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 220 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 220 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 194 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 194 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 194 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 128 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 128 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 128 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 126 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 126 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 126 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 97 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 97 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 97 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 64 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 64 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 64 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 63 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 63 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 63 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 202 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 202 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 202 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 177 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 177 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 177 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 148 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 148 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 148 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 137 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 137 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 137 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 134 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 134 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 134 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 110 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 110 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 110 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 83 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 83 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 83 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 71 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 71 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 71 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 491 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 491 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 491 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 49 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 49 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 49 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 48 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 48 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 48 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 478 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 478 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 478 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 477 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 477 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 477 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 475 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 475 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 475 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 38 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 38 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 38 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 369 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 369 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 369 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 365 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 365 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 365 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 364 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 364 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 364 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 360 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 360 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 360 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 359 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 359 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 359 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 353 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 353 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 353 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 344 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 344 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 344 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 341 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 341 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 341 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 275 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 275 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 275 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 272 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 272 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 272 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 270 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 270 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 270 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 268 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 268 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 268 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 263 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 263 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 263 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 246 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 246 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 246 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 230 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 230 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 230 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 187 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 187 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 187 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 185 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 185 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 185 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 184 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 184 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 184 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 181 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 181 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 181 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 180 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 180 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 180 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 169 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 169 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 169 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 163 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 163 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 163 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 122 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 122 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 122 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 113 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 113 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 113 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 84 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 84 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 84 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 81 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 81 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 81 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 80 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 80 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 80 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 42 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 42 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 42 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 25 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 25 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 25 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 238 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 238 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 238 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 236 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 236 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 236 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 19 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 19 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 19 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 184 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 184 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 184 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 183 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 183 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 183 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 170 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 170 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 170 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 140 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 140 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 140 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 138 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 138 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 138 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 135 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 135 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 135 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 115 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 115 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 115 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 117 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 117 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 117 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 115 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 115 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 115 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 455 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 455 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 455 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 424 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 424 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 424 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 332 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 332 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 332 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 310 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 310 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 310 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 282 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 282 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 282 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 266 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 266 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 266 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 260 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 260 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 260 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 234 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 234 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 234 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 198 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 198 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 198 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 196 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 196 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 196 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 124 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 124 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 124 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 122 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 122 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 122 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 99 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 99 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 99 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 98 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 98 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 98 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 62 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 62 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 62 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 61 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 61 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 61 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 227 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 227 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 227 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 212 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 212 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 212 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 166 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 166 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 166 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 155 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 155 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 155 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 141 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 141 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 141 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 133 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 133 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 133 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 130 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 130 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 130 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 117 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 117 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 117 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 85 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 85 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 85 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 69 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 69 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 69 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 68 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 68 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 68 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 511 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 511 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 511 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 510 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 510 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 510 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 507 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 507 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 507 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 504 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 504 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 504 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 501 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 501 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 501 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 497 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 497 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 497 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 484 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 484 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 484 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 479 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 479 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 479 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 473 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 473 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 473 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 472 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 472 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 472 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 471 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 471 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 471 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 467 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 467 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 467 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 462 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 462 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 462 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 459 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 459 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 459 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 375 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 375 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 375 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 371 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 371 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 371 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 370 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 370 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 370 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 368 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 368 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 368 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 367 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 367 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 367 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 363 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 363 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 363 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 361 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 361 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 361 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 358 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 358 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 358 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 343 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 343 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 343 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 340 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 340 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 340 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 339 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 339 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 339 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 338 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 338 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 338 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 336 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 336 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 336 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 331 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 331 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 331 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 329 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 329 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 329 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 327 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 327 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 327 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 323 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 323 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 323 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 281 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 281 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 281 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 280 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 280 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 280 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 279 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 279 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 279 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 273 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 273 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 273 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 265 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 265 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 265 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 262 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 262 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 262 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 245 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 245 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 245 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 243 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 243 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 243 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 241 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 241 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 241 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 238 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 238 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 238 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 236 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 236 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 236 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 228 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 228 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 228 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 193 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 193 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 193 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 188 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 188 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 188 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 182 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 182 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 182 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 168 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 168 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 168 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 167 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 167 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 167 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 164 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 164 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 164 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 162 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 162 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 162 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 161 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 161 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 161 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 160 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 160 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 160 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 159 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 159 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 159 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 155 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 155 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 155 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 153 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 153 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 153 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 134 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 134 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 134 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 130 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 130 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 130 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 128 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 128 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 128 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 107 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 107 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 107 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 104 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 104 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 104 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 97 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 97 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 97 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 78 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 78 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 78 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 77 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 77 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 77 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 67 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 67 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 67 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 65 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 65 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 65 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 52 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 52 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 52 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 43 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 43 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 43 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 34 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 34 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 34 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 256 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 256 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 256 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 255 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 255 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 255 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 254 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 254 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 254 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 252 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 252 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 252 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 251 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 251 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 251 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 237 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 237 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 237 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 234 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 234 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 234 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 231 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 231 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 231 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 230 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 230 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 230 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 188 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 188 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 188 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 186 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 186 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 186 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 169 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 169 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 169 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 168 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 168 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 168 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 166 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 166 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 166 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 165 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 165 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 165 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 164 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 164 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 164 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 162 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 162 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 162 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 141 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 141 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 141 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 137 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 137 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 137 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 133 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 133 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 133 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 119 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 119 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 119 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 118 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 118 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 118 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 114 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 114 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 96 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 114 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 934 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 904 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 763 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 732 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 721 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 606 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 1057 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 1046 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 529 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 523 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 467 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 452 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 382 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 366 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 361 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 88 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 303 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 88 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 88 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 88 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 86 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 86 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 512 -H 512 -l 2 -b 1 -m lstm -p 0 -r 0 -k 86 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 466 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 466 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 466 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 454 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 454 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 454 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 453 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 453 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 453 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 422 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 422 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 422 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 402 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 402 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 402 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 398 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 398 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 398 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 374 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 374 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 374 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 372 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 372 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 372 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 366 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 366 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 366 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 364 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 364 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 364 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 362 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 362 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 362 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 326 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 326 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 326 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 324 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 324 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 324 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 304 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 304 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 304 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 300 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 300 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 300 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 262 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 262 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 262 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 236 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 236 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 236 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 230 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 230 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 230 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 228 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 228 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 228 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 224 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 224 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 224 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 190 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 190 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 190 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 186 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 186 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 186 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 166 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 166 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 166 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 160 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 160 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 160 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 156 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 156 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 156 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 154 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 154 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 154 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 130 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 130 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 130 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 95 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 95 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 95 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 93 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 93 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 93 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 83 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 83 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 83 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 80 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 80 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 80 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 78 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 78 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 78 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 77 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 77 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 77 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 65 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 65 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 65 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 211 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 211 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 211 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 201 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 201 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 201 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 199 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 199 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 199 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 187 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 187 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 187 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 186 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 186 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 186 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 183 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 183 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 183 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 182 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 182 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 182 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 181 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 181 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 181 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 163 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 163 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 163 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 162 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 162 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 162 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 152 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 152 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 152 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 150 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 150 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 150 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 131 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 131 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 131 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 118 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 118 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 118 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 115 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 115 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 115 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 114 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 114 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 114 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 112 -c 0 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 112 -F 4 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 192 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 112 -F 2 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 981 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 969 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 965 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 953 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 827 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 824 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 802 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 782 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 757 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 637 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 603 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 596 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 514 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 1089 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 1083 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 256 -H 1024 -l 2 -b 1 -m lstm -p 0 -r 0 -k 1072 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 545 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 542 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 536 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 491 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 485 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 483 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 477 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 414 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 412 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 401 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 391 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 379 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 319 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 302 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 298 -c 1 -F 1 -w 1 --iter 100 -V 0
+MIOpenDriver rnnfp16 -n 128 -W 2048 -H 1024 -l 3 -b 1 -m lstm -p 0 -r 0 -k 257 -c 1 -F 1 -w 1 --iter 100 -V 0
