@@ -8,7 +8,7 @@ dev_cnt=`rocm-smi | grep Mhz | wc -l`
 dev_id=0
 for args in `cat $list`;do
     log=${out_dir}/r_${args}.log
-    params=`echo $args | sed -e 's/_/ /g'`
+    params=`echo $args | sed -e 's/-/ /g'`
     echo $params
     
     act_rocblas_udt=`ps -aux| grep "rocblas-example-user-driven-tuning" | sed 's/.*grep.*//g' | grep -e "\S" | wc -l`
@@ -20,9 +20,11 @@ for args in `cat $list`;do
 done
 act_rocblas_udt=`ps -aux| grep "rocblas-example-user-driven-tuning" | sed 's/.*grep.*//g' | grep -e "\S" | wc -l`
 while [[ ${act_rocblas_udt} -gt 0 ]]; do act_rocblas_udt=`ps -aux| grep "rocblas-example-user-driven-tuning" | sed 's/.*grep.*//g' | grep -e "\S" | wc -l`; continue;done
+
+summary_log=${out_dir}/summary_${out_dir}.list
 for f in `ls ${out_dir}/r_*.log`; do 
     win=`grep -ir Winner $f | sed -e 's/ in .*//g' | sed -e 's/Winner: //g'`
     for w in `echo $win`;do 
-        grep -ir $w $f |grep algo | grep rocblas-bench| tail -n 1 |sed -e 's/\.\///g'
+        grep -ir $w $f |grep algo | grep rocblas-bench| tail -n 1 |sed -e 's/\.\///g' | tee -a ${summary_log}
     done
 done
