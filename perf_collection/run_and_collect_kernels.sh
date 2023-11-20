@@ -20,7 +20,7 @@ do
     fPerf=${outdir}/perf_test_${id}.csv
     fCmd=${outdir}/cmd_test_${id}.sh
     rocprof --stats -o ${fProf} $line
-    $line | grep "hipblas-Gflops\|rocblas-Gflops" -A 1 | tee ${fPerf}
+    $line | grep "Gflops" -A 1 | tee ${fPerf}
     echo $line > ${fCmd}
     if [[ $id == "0" ]]; then
         cmd_metric="TestCommand"
