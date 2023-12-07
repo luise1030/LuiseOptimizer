@@ -6,6 +6,8 @@ import argparse
 # Enable mixed precision
 policy = mixed_precision.Policy('mixed_float16')
 mixed_precision.set_global_policy(policy)
+tf.keras.backend.set_image_data_format('channels_last')
+tf.config.optimizer.set_jit(True)
 
 def create_conv_bn_layers(input_shape, num_filters, kernel_size, strides):
     model = models.Sequential()
@@ -16,7 +18,8 @@ def create_conv_bn_layers(input_shape, num_filters, kernel_size, strides):
     # Convolutional layers with batch normalization
     for filters in num_filters:
         model.add(layers.BatchNormalization(axis=-1))  # Axis=-1 corresponds to channels_last
-        model.add(layers.Conv2D(filters, kernel_size, strides=strides, padding='same', data_format='channels_last'))
+        padding = 'valid' if input_shape == (224, 224, 3) else 'same'
+        model.add(layers.Conv2D(filters, kernel_size, strides=strides, padding=padding))
         model.add(layers.BatchNormalization(axis=-1))  # Axis=-1 corresponds to channels_last
         model.add(layers.Activation('relu'))
     

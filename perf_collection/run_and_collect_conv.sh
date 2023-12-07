@@ -13,7 +13,7 @@ array=()
 id=0
 export MIOPEN_ENABLE_LOGGING_CMD=1
 export XLA_FLAGS=--xla_gpu_force_conv_nhwc
-export TF_CUDNN_WORKSPACE_LIMIT_IN_MB=$((8*1024))
+export TF_CUDNN_WORKSPACE_LIMIT_IN_MB=$((16*1024))
 while read line
 do
     outdir=${outdir_pref}/test_${id}
