@@ -18,7 +18,7 @@ def create_conv_bn_layers(input_shape, num_filters, kernel_size, strides):
     # Convolutional layers with batch normalization
     for filters in num_filters:
         model.add(layers.BatchNormalization(axis=-1))  # Axis=-1 corresponds to channels_last
-        padding = 'valid' if input_shape == (224, 224, 3) else 'same'
+        padding = 'same' if kernel_size == (3, 3) else 'valid'
         model.add(layers.Conv2D(filters, kernel_size, strides=strides, padding=padding))
         model.add(layers.BatchNormalization(axis=-1))  # Axis=-1 corresponds to channels_last
         model.add(layers.Activation('relu'))

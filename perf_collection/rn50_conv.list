@@ -9,7 +9,7 @@ python conv2d_tf.py --hi 56 --wi 56 --ci 64 --co 256 -k 1 --stride 1 -n 768
 python conv2d_tf.py --hi 56 --wi 56 --ci 256 --co 64 -k 1 --stride 1 -n 768
 python conv2d_tf.py --hi 56 --wi 56 --ci 64 --co 64 -k 3 --stride 1 -n 768
 python conv2d_tf.py --hi 56 --wi 56 --ci 64 --co 256 -k 1 --stride 1 -n 768
-python conv2d_tf.py --hi 56 --wi 56 --ci 256 --co 512 -k 1 --stride 1 -n 768
+python conv2d_tf.py --hi 56 --wi 56 --ci 256 --co 512 -k 1 --stride 2 -n 768
 python conv2d_tf.py --hi 56 --wi 56 --ci 256 --co 128 -k 1 --stride 1 -n 768
 python conv2d_tf.py --hi 56 --wi 56 --ci 128 --co 128 -k 3 --stride 2 -n 768
 python conv2d_tf.py --hi 28 --wi 28 --ci 128 --co 512 -k 1 --stride 1 -n 768
@@ -22,7 +22,7 @@ python conv2d_tf.py --hi 28 --wi 28 --ci 128 --co 512 -k 1 --stride 1 -n 768
 python conv2d_tf.py --hi 28 --wi 28 --ci 512 --co 128 -k 1 --stride 1 -n 768
 python conv2d_tf.py --hi 28 --wi 28 --ci 128 --co 128 -k 3 --stride 1 -n 768
 python conv2d_tf.py --hi 28 --wi 28 --ci 128 --co 512 -k 1 --stride 1 -n 768
-python conv2d_tf.py --hi 28 --wi 28 --ci 512 --co 1024 -k 1 --stride 1 -n 768
+python conv2d_tf.py --hi 28 --wi 28 --ci 512 --co 1024 -k 1 --stride 2 -n 768
 python conv2d_tf.py --hi 28 --wi 28 --ci 512 --co 256 -k 1 --stride 1 -n 768
 python conv2d_tf.py --hi 28 --wi 28 --ci 256 --co 256 -k 3 --stride 2 -n 768
 python conv2d_tf.py --hi 14 --wi 14 --ci 256 --co 1024 -k 1 --stride 1 -n 768
@@ -41,7 +41,7 @@ python conv2d_tf.py --hi 14 --wi 14 --ci 256 --co 1024 -k 1 --stride 1 -n 768
 python conv2d_tf.py --hi 14 --wi 14 --ci 1024 --co 256 -k 1 --stride 1 -n 768
 python conv2d_tf.py --hi 14 --wi 14 --ci 256 --co 256 -k 3 --stride 1 -n 768
 python conv2d_tf.py --hi 14 --wi 14 --ci 256 --co 1024 -k 1 --stride 1 -n 768
-python conv2d_tf.py --hi 14 --wi 14 --ci 1024 --co 2048 -k 1 --stride 1 -n 768
+python conv2d_tf.py --hi 14 --wi 14 --ci 1024 --co 2048 -k 1 --stride 2 -n 768
 python conv2d_tf.py --hi 14 --wi 14 --ci 1024 --co 512 -k 1 --stride 1 -n 768
 python conv2d_tf.py --hi 14 --wi 14 --ci 512 --co 512 -k 3 --stride 2 -n 768
 python conv2d_tf.py --hi 7 --wi 7 --ci 512 --co 2048 -k 1 --stride 1 -n 768
