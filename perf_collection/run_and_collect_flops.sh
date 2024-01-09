@@ -30,7 +30,7 @@ do
     fi
     cmd_data=`tail -n 1 ${fCmd} | sed -e 's/\r//g'`
     perf_data=`tail -n 1 ${fPerf} | sed -e 's/\r//g'`
-    kernel_data=`head -n 2 ${fStats} | tail -n 1 | sed -e 's/\r//g'`
+    kernel_data=`cat ${fStats} | grep "igemm\|Cijk" | sed -e 's/\r//g'`
     echo "\"$cmd_data\",${perf_data},${kernel_data}" | tee -a ${fSummary}
     id=$((id+1))
 done
