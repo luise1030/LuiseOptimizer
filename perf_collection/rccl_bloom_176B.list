@@ -1,0 +1,5 @@
+./build/all_reduce_perf -d half -b 688128 -e 688128 -o sum -g 8 -n 250 
+./build/all_reduce_perf -d half -b 573440 -e 573440 -o sum -g 8 -n 250 
+./build/all_reduce_perf -d half -b 573440 -e 573440 -o sum -g 8 -n 250 
+./build/all_reduce_perf -d half -b 573440 -e 573440 -o sum -g 8 -n 250 
+./build/all_reduce_perf -d half -b 114688 -e 114688 -o sum -g 8 -n 250 
