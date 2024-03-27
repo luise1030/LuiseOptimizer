@@ -23,13 +23,14 @@ with open(args.input_file, 'r') as json_file:
 #    json.dump(data, file, indent=4)
 
 print(f'{len(data["traceEvents"])} events')
-data["traceEvents"] = [evenit for event in data["traceEvents"] if ('pid' in event and event['pid'] == args.pid and event['ph'] == 'X')]
+data["traceEvents"] = [event for event in data["traceEvents"] if ('pid' in event and event['pid'] == args.pid and event['ph'] == 'X')]
 
 df = pd.DataFrame()
-df['']
+#df['']
         
 if args.output_file == '':
-    args.output_file = re.sub(r"(\s*).json", r"\1_trim.json", args.input_file)
+    args.output_file = re.sub(r"(\s*).json", r"\1_trim", args.input_file)
+    args.output_file += f'_pid{args.pid}.json'
 
 with open(args.output_file, 'w') as file:
     json.dump(data, file, indent=4)
