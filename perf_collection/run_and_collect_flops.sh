@@ -7,6 +7,9 @@ fSummary=${outdir_pref}/summary_${outdir_pref}_${CURRENTDATE}.csv
 
 mkdir ${outdir_pref}
 
+export HIP_FORCE_DEV_KERNARG=1
+export TORCH_NCCL_HIGH_PRIORITY=1
+export GPU_MAX_HW_QUEUES=2
 cmds=(`cat $input`)
 exec < $input
 array=()
