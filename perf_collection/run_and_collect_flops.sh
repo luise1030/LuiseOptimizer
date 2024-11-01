@@ -20,11 +20,11 @@ while read line
 do
     outdir=${outdir_pref}/test_${id}
     mkdir ${outdir}
-    fProf=${outdir}/rocprof_test_${id}.csv
-    fStats=${outdir}/rocprof_test_${id}.stats.csv
+    fProf=${outdir}/rocprof_test_${id}
+    fStats=${fProf}_kernel_stats.csv
     fPerf=${outdir}/perf_test_${id}.csv
     fCmd=${outdir}/cmd_test_${id}.sh
-    rocprof --stats -o ${fProf} $line
+    rocprofv3 --kernel-trace --stats -o ${fProf} -- $line
     $line | grep "Gflops\|GFLOPs" -A 1 | tee ${fPerf}
     echo $line > ${fCmd}
     if [[ $id == "0" ]]; then
@@ -37,9 +37,9 @@ do
     perf_data=`tail -n 1 ${fPerf} | sed -e 's/\r//g'`
 
     if [[ `cat ${fStats} | grep "igemm\|Cijk\|conv\|Conv\|batched_gemm_xdlops" | wc -l` -ge 2 ]];then
-        kernel_data=`cat ${fStats} | grep "igemm\|Cijk\|conv\|Conv\|batched_gemm_xdlops" | sed -e 's/.*naive_conv.*//g' | grep -e "\S" | sed -e 's/\n\n//g' | sed -e 's/\r\r//g'`
+        kernel_data=`cat ${fStats} | grep "igemm\|Cijk\|conv\|Conv\|batched_gemm_xdlops" | sed -e 's/.*naive_conv.*//g' | grep -e "\S" | sed -e 's/\n\n//g' | sed -e 's/\r\r//g' | head -n 1`
     else
-        kernel_data=`cat ${fStats} | grep "igemm\|Cijk\|conv\|Conv\|batched_gemm_xdlops" | grep -e "\S" | sed -e 's/\n\n//g' | sed -e 's/\r\r//g'`
+        kernel_data=`cat ${fStats} | grep "igemm\|Cijk\|conv\|Conv\|batched_gemm_xdlops" | grep -e "\S" | sed -e 's/\n\n//g' | sed -e 's/\r\r//g' | head -n 1`
     fi
     echo "\"$cmd_data\",${perf_data},${kernel_data}" | tee -a ${fSummary}
     id=$((id+1))
