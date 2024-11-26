@@ -24,8 +24,10 @@ do
     fStats=${fProf}_kernel_stats.csv
     fPerf=${outdir}/perf_test_${id}.csv
     fCmd=${outdir}/cmd_test_${id}.sh
+    fLog=${outdir}/perf_test_${id}.log
     rocprofv3 --kernel-trace --stats -o ${fProf} -- $line
-    $line | grep "Gflops\|GFLOPs" -A 1 | tee ${fPerf}
+    $line 2>&1 |tee ${fLog}
+    cat ${fLog} | grep "Gflops\|GFLOPs" -A 1 | tee ${fPerf}
     echo $line > ${fCmd}
     if [[ $id == "0" ]]; then
         cmd_metric="TestCommand"
